@@ -28,9 +28,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+LINK TO GIF DEMO ON IMGUR: 
+
 https://imgur.com/a/KZXtPBG
 
-<img src='https://imgur.com/a/KZXtPBG' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/KZXtPBG" data-context="false" ><a href="//imgur.com/a/KZXtPBG"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
